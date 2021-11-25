@@ -1,0 +1,1067 @@
+@font-face {
+    font-family: GT Walsheim Pro; /* Имя шрифта */
+    src: url(./font/gtwalsheimpro_condensedmedium.otf); /* Путь к файлу со шрифтом */
+}
+
+
+.container {
+    max-width: 1170px;
+}
+
+.logo {
+    margin-top: 8px;
+}
+
+.collapse {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.navbar-nav {
+    width: 100%;
+    flex-direction: row;
+    justify-content:end;
+    color: #000000 !important;
+}
+
+.navbar-nav  a{
+    color: #000000;
+}
+
+.nav-item {
+    margin-right: 48px;
+}
+.navbar-nav .nav-link{
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 145.19%;
+    /* or 26px */
+
+
+    color: #5A5A5A !important;
+}
+
+.end .right{
+    margin-right: 0;
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: bold !important;
+    font-size: 18px;
+    line-height: 145.19%;
+    /* or 26px */
+
+
+    color: #2FD066 !important;
+}
+
+.dropdown-menu {
+    background-color: white;
+    border: none;
+    border-left: 1px solid #2FD066;
+    border-radius: 0;
+}
+
+.dropdown-item {
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 145%;
+    /* or 26px */
+
+
+    /* Text */
+
+    color: #5A5A5A;
+}
+
+.sector2 {
+    margin-top: 195px;
+    height: 174px;
+}
+.sector2  h3 {
+    width: 387px;
+    height: 76px;
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 135%;
+    /* or 38px */
+    
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    
+    color: #5A5A5A;
+    
+}
+.sector2  .left p {
+    width: 387px;
+    height: 104px;
+    left: 365px;
+    top: 740px;
+    
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 145%;
+    /* or 26px */
+    
+    
+    color: #5A5A5A;
+    
+}
+
+h1 {
+    max-width: 407px;
+    height: 174px;
+    left: 360px;
+    top: 244px;
+
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 120%;
+    /* or 58px */
+    margin-bottom: 50%;
+
+    color: #2FD066;
+}
+
+.call {
+    height: 26px;
+    width: 285px;
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 145.19%;
+    /* or 26px */
+    border-top: 2px solid #E0E0E0;;
+    border-bottom: 2px solid #E0E0E0;
+    text-align: left;
+    padding: 0 0 6px 20px;
+
+    letter-spacing: 0.1em;
+
+    color: #2FD066;
+}
+
+
+.sector2  .right p  {
+    width: 100%;
+    height: 52px;
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 145%;
+    /* or 26px */
+
+
+    color: #5A5A5A;
+
+}
+
+.col-md-12 img {
+    position: absolute;
+    width: 57.5%;
+    height: 559px;
+    top: 316px;
+    right: 0;
+}
+
+.sector3 {
+    margin-top: 634px;
+}
+
+.sector3 h2 {
+    margin-top: 64px;
+    margin-bottom: 64px;
+}
+
+.sector3 .container {
+    max-width: 690px;
+}
+
+.sector3 .container .col-md-12 {
+    margin: 0 auto;
+    border-left: 2px solid #2FD066;
+    width: 690px;
+    flex-wrap: wrap;
+}
+
+.choose h3 {
+    margin: 0 auto;
+    width: 182px;
+    height: 106px;
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 145.19%;
+    /* or 35px */
+
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #2FD066;
+
+}
+
+.choose p {
+    width: 387px;
+    height: 104px;
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 145%;
+    /* or 26px */
+    
+    
+    color: #5A5A5A;  
+}
+
+.choose .bottom p {
+    margin: 0 auto;
+    width: 304px;
+    height: 160px;
+    left: 972px;
+    top: 1396px;
+
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 145%;
+    /* or 26px */
+    margin-top: 88px;
+
+    color: #5A5A5A;
+}
+
+.repaired {
+    height: 88px;
+}
+
+.partners h2 {
+    margin: 0 !important;
+    width: 182px;
+    height: 106px;
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 145.19%;
+    /* or 35px */
+
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    /* Accent */
+
+    color: #2FD066;
+}
+
+.partners p {
+    width: 314px;
+    height: 52px;
+    left: 1079px;
+    top: 2275px;
+    padding-top: 15px;
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 145%;
+    /* or 26px */
+    
+    
+    color: #5A5A5A;
+}
+
+/* Слайдер */
+.slick-slider{}
+/* Слайдер запущен */
+.slick-slider.slick-initialized{}
+/* Слайдер с точками */
+.slick-slider.slick-dotted{}
+/* Ограничивающая оболочка */
+.slick-list {
+    overflow: hidden;
+    max-width: 800px;
+}
+/* Лента слайдов */
+.slick-track{
+    display: flex;
+    align-items: flex-start;
+}
+/* Слайд */
+.slick-slide{}
+/* Слайд активный (показывается) */
+.slick-slide.slick-active{}
+/* Слайд основной */
+.slick-slide.slick-current{}
+/* Слайд по центру */
+.slick-slide.slick-center{}
+/* Клонированный слайд */
+.slick-slide.slick-cloned{}
+/* Стрелка */
+.slick-arrow{}
+/* Стрелка влево */
+.slick-arrow.slick-prev{}
+/* Стрелка вправо */
+.slick-arrow.slick-next{}
+/* Стрелка не активная */
+.slick-arrow.slick-disabled{}
+/* Точки (булиты) */
+.slick-dots{}
+.slick-dots li{}
+/* Активная точка */
+.slick-dots li.slick-active{}
+/* Элемент точки */
+.slick-dots li button{}
+/* Конкретный слайдер */
+.center{
+    position: relative;
+}
+.center .slick-arrow{
+    position: absolute;
+    top: 110%;
+    font-size: 0;
+}
+.center .slick-arrow.slick-next {
+    left: -1%;
+    background: url(./image/scrollbutton.png) 0 0 no-repeat;
+    z-index: 10;
+    width: 222px;
+    height: 52px;
+}
+
+
+.slider___item {
+    text-align: center;
+    opacity: 0.4;
+    margin: 15px;
+}
+.slider___item.slick-center{
+    opacity: 1;
+}
+
+.sector4 {
+    margin-top: 280px;
+}
+
+.sector4 .container {
+    max-width: 690px;
+}
+
+.service {
+    flex-direction: column;
+}
+
+.service h3{
+    display: block;
+    width: 184px;
+    height: 72px;
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 145.19%;
+    /* or 35px */
+
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    /* Accent */
+
+    color: #2FD066;
+}
+
+.service p{
+    display: block;
+    width: 387px;
+    height: 104px;
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 145%;
+    /* or 26px */
+
+
+    color: #5A5A5A;
+
+}
+
+.slider .slick-list{
+    max-width: 100% !important;
+    margin-top: 88px;
+}
+
+.slider slider___item{
+    opacity: 1 !important;
+}
+
+.sector5 {
+    margin-top: 280px;
+}
+
+.sector5 .container{
+    max-width: 1034px;
+}
+
+.sector5 .row{
+    width: 100%;
+    border-right: 2px solid #2FD066;
+}
+
+
+.column {
+    flex-direction: column;
+}
+
+.mechanical {
+    min-height: 219px;
+    background-image: url(./image/shutterstock_1930852199\ 1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.collision {
+    min-height: 219px;
+    background-image: url(./image/shutterstock_739515940\ 1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Hybrid {
+    background-image: url(./image/pexels-rathaphon-nanthapreecha-3846205\ 1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.column .col-md-11 h3 {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    max-width: 222px;
+    height: 72px;
+    margin: 0 auto;
+
+    /* H3 */
+
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 135%;
+    /* or 38px */
+
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.column .col-md-11 button {
+    display: block;
+    margin: 0 auto;
+    width: 173px;
+    height: 26px;
+    border-top: 2px solid #FFFFFF;
+    border-bottom: 2px solid #FFFFFF;
+    margin-top: 36px;
+
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 145.19%;
+    /* or 26px */
+
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.Hybrid h3 {
+    margin: 0 auto;
+    width: 224px;
+    height: 42px;
+    /* H3 */
+
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px;
+    line-height: 135%;
+    /* or 38px */
+    margin-top: 80%;
+
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.Hybrid  button {
+    display: block;
+    margin: 0 auto;
+    width: 173px;
+    height: 26px;
+    border-top: 2px solid #FFFFFF;
+    border-bottom: 2px solid #FFFFFF;
+    margin-top: 25%;
+
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 145.19%;
+    /* or 26px */
+
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+
+.weDo h3 {
+    width: 244px;
+    height: 81px;
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 145.19%;
+    padding-left: 122px;
+    /* or 35px */
+
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #2FD066;
+}
+
+.services {
+    margin-top: 88px;
+    margin-left: 18%;
+    border-bottom: 2px solid #E0E0E0;
+}
+
+.services h2 {
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 135%;
+    /* or 38px */
+
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+
+    color: #5A5A5A;
+}
+
+.services button {
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 145.19%;
+    /* or 26px */
+
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    border-top: 2px solid #E0E0E0;
+
+    /* Accent */
+
+    color: #2FD066;
+
+}
+
+.reviews {
+    margin-top: 280px;
+}
+
+.reviews h3{
+    margin-left: 35%;
+    margin-bottom: 69px;
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 145.19%;
+    /* or 35px */
+
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #2FD066;
+}
+
+/* Слайдер */
+.slick-slider{}
+/* Слайдер запущен */
+.slick-slider.slick-initialized{}
+/* Слайдер с точками */
+.slick-slider.slick-dotted{}
+/* Ограничивающая оболочка */
+.reviewsSlider .slick-list {
+    overflow: hidden;
+    max-width: 95%;
+}
+/* Лента слайдов */
+.slick-track{
+    display: flex;
+    align-items: flex-start;
+}
+/* Слайд */
+.slick-slide{}
+/* Слайд активный (показывается) */
+.slick-slide.slick-active{}
+/* Слайд основной */
+.slick-slide.slick-current{}
+/* Слайд по центру */
+.slick-slide.slick-center{}
+/* Клонированный слайд */
+.slick-slide.slick-cloned{}
+/* Стрелка */
+.slick-arrow{}
+/* Стрелка влево */
+.slick-arrow.slick-prev{}
+/* Стрелка вправо */
+.slick-arrow.slick-next{}
+/* Стрелка не активная */
+.slick-arrow.slick-disabled{}
+/* Точки (булиты) */
+.slick-dots{}
+.slick-dots li{}
+/* Активная точка */
+.slick-dots li.slick-active{}
+/* Элемент точки */
+.slick-dots li button{}
+/* Конкретный слайдер */
+.reviewsSlider{
+    position: relative;
+    margin-left: 75px;
+}
+.reviewsSlider .slick-arrow{
+    position: absolute;
+    top: 110%;
+    font-size: 0;
+    right: 0;
+}
+.reviewsSlider .slick-arrow.slick-next {
+    background: url(./image/scrollbutton.png) 0 0 no-repeat;
+    z-index: 10;
+    width: 222px;
+    height: 52px;
+}
+
+
+.slider___item.slick-center{
+    opacity: 1;
+}
+
+.reviewsSlider .slider___item {
+    width: 327px;
+    text-align: left;
+    border-right: 2px solid #2FD066;
+    opacity: 1;
+    padding-right: 39px;
+    padding-left: 74px;
+}
+
+.reviewsSlider h3 {
+    margin: 0;
+    margin-bottom: 24px;
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 135%;
+    /* or 38px */
+
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+
+    color: #5A5A5A;
+
+}
+
+.reviewsSlider p {
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 145%;
+    margin-bottom: 42px;
+    /* or 26px */
+    
+    
+    color: #5A5A5A;
+}
+
+.reviewsSlider img {
+    display: inline-block;
+}
+
+.reviewsSlider h5 {
+    position: relative;
+    bottom: -35px;
+    display: inline-block;
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 145%;
+    /* or 26px */
+    margin-left: 17px;
+
+
+    color: #5A5A5A;
+}
+
+.form {
+    margin-top: 280px;
+}
+
+.form .row>* {
+    width: 45% !important;
+}
+
+.form .container form{
+    max-width: 776px;
+    margin-left: 13%;
+}
+
+.name,
+.tel,
+.addres {
+    width: 406px;
+    margin-bottom: 39px;
+}
+
+label {
+    margin-bottom: 15px;
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 135%;
+    /* or 38px */
+
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+
+    /* Text */
+
+    color: #5A5A5A;
+
+}
+
+
+textarea {
+    height: 100%;
+    border: 2px solid #E0E0E0;
+
+}
+
+ ::placeholder {
+    padding: 10px;
+}
+
+.form .btn {
+    margin-left: 57%;
+    width: 406px;
+    height: 64px;
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 135%;
+    /* identical to box height, or 38px */
+
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+
+    background: #2FD066;
+}
+
+
+
+.formP {
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 145%;
+    /* or 26px */
+
+
+    color: #5A5A5A;
+}
+
+.formH {
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 145.19%;
+    /* or 35px */
+
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #2FD066;
+}
+
+footer  {
+    margin-top: 336px;
+}
+
+footer .logo {
+    text-align: left;
+    width: 25%;
+    margin-top: 0 !important;
+}
+
+.footerLink {
+    justify-content: space-between;
+}
+
+.footerLink  a{
+    text-decoration: none;
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 145.19%;
+    /* or 26px */
+
+
+    color: #5A5A5A;
+}
+
+.copyright {
+    font-family: GT Walsheim Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 145.19%;
+    /* or 26px */
+    
+    margin-top: 40px;
+    color: #5A5A5A;
+}
+
+.copyrightTel {
+    justify-content: end;
+}
+
+@media (max-width: 1200px) {
+    .container {
+        max-width: 970px;
+    }
+}
+
+@media (max-width: 992px) {
+    .container {
+        max-width: 750px;
+    }
+}
+
+@media (max-width: 768px) {
+    .sector2 .mobile  {
+        display: none !important;
+    }
+
+    .collapse:not(.show) {
+        display: none !important;
+    }
+
+
+
+    .nav-item {
+        margin-right: 15px;
+    }
+
+    .navbar-dark .navbar-nav .nav-link  {
+        color: #5A5A5A;
+    }
+
+    .navbar-dark .navbar-toggler {
+        background-color: #5A5A5A;
+    }
+
+    .sector2 .left p {
+        width: 100%;
+    }
+
+    .sector2 h3 {
+        width: 100%;
+    }
+
+    .call {
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .sector2 .right p {
+        margin-top: 15px;
+        margin-left: 0 !important;
+    }
+
+    .choose p {
+        width: 100%;
+        text-align: center;
+    }
+
+    .service p {
+        width: 100%;
+    }
+
+    .column {
+        flex-direction: row !important;
+    }
+
+    .mechanical {
+        flex-direction: row;
+    }
+
+    .mobi{
+        flex-direction: column;
+        justify-content: center !important;
+    } 
+
+    .sector5 {
+        margin-top: 50px;
+    }
+
+    .sector5 .row {
+        border: none;
+        margin: 0 auto;
+    }
+
+    .Hybrid {
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+
+    .Hybrid h3 {
+        width: 95%;
+        height: ;
+    }
+
+    .mMechanical {
+        text-align: center !important;
+        margin-bottom: 95px !important;+
+        margin-left: 25% !important;
+    }
+
+    .mMechanicalBtn {
+        margin-right: 10%;
+        margin-top: 42px;
+    }
+
+    .weDo {
+        margin-top: 15px;
+        width: 100%;
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .services {
+        margin-left: 0;
+        padding: 0 10px;
+    }
+
+    .services h2 {
+        text-align: center;
+    }
+
+    .reviewsSlider{
+        position: relative;
+        margin-left: 0;
+    }
+
+    .mobiForm {
+        width: 100% !important;
+        margin: 0 !important;
+    }
+
+    .name, .tel, .addres {
+     width: 240%;
+    }
+
+    form .row {
+        flex-direction: column;
+    }
+
+    .form-control {
+        width: 100%;
+    }
+
+    .form .container form {
+        margin-left: 0;
+    }
+
+    label {
+        font-size: 20px;
+        line-height: 86%;
+    }
+
+    .form .btn {
+        width: 50%;
+        margin-left: 25%;
+    }
+
+    .footerLink a { 
+        font-size: 18px;
+    }
+
+    .copyrightTel {
+        display: none !important;
+    }
+
+    .copyright  {
+        font-size: 16px;
+        opacity: 0.5;
+        margin-left: 25%;
+    }
+
+    footer .logo {
+        margin-bottom: 10px;
+    }
+
+    .sector4 {
+        margin-top: 50px;
+    }
+
+    
+
+}
